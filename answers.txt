@@ -1,0 +1,9 @@
+Matt Klaasse
+
+1) Array, 1, 1.5, false, nil
+
+2) East string formatting using #{object}.
+
+3) In my opinion it does because it ensures that you are actually testing the behavior that you want the program to perform.
+
+4) 
