@@ -1,5 +1,5 @@
 Given /^the application is running$/ do
-	run_interactive(unescape("ruby chatbox.rb"))
+	run_interactive(unescape("ruby chatbot.rb"))
 end
 
 Then /^I should see "([^""]*)"$/ do |text|
